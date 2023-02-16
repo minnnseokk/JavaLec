@@ -54,7 +54,7 @@ public class _05_defaultConstructor {
 		System.out.println("취득 평점은 : " + student2.getGrade());
 		System.out.println("----------------------------------");
 		
-							
+				 			
 		
 	}
 	
