@@ -27,10 +27,10 @@ public class DistanceChanger {
 			System.out.println(unit + "로 변환된 값 : " + (distance * 1000) + unit);
 			break;
 		case "km":
-			System.out.println(unit + "로 변환된 값" + ((double) distance / 1000) + unit);
+			System.out.println(unit + "로 변환된 값 : " + ((double) distance / 1000) + unit);
 			break;
 		case "inch":
-			System.out.println(unit + "로 변환된 값" + ((double) distance / 39.37) + unit);
+			System.out.println(unit + "로 변환된 값 : " + ((double) distance / 39.37) + unit);
 			break;
 		default:
 			System.out.println("잘못 입력하셨습니다.");
