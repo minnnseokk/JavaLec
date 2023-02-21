@@ -2,7 +2,7 @@ package chap99_etc.games;
 
 import java.util.Scanner;
 
-public class RockScissPaper {
+public class RockScissPaper extends GamesClass{
 
 	// 가위, 바우빕, 보 게임 객체를 생성하여 게임을 진행할 수 있도록 리터링
 
